@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/190813_Nanbanjie.unity
     guid: a28c1ce3fd3130d4e89df2cd62a35ce8
-  - enabled: 1
+  - enabled: 0
     path: Assets/190818_Nanbanjie.unity
     guid: f327f7a9c6d254045930bc4557dca2eb
+  - enabled: 1
+    path: Assets/190901_Nanbanjie.unity
+    guid: 9b7ce40624b03004d9653fa9108702a9
   m_configObjects: {}
